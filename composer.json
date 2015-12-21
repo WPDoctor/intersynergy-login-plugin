@@ -12,10 +12,10 @@
     }
   ],
   "keywords": [
-    "wordpress"
+    "wordpress", "wp", "wpdoctor", "intersynergy"
   ],
   "support": {
-    "issues": "https://github.com/WPDoctor/intersynergy-login-plugin/issues",
+    "issues": "https://github.com/WPDoctor/intersynergy-login-plugin/issues"
   },
   "require": {
     "php": ">=5.4.0",
