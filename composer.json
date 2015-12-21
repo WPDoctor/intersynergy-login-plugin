@@ -1,5 +1,5 @@
 {
-  "name": "WPDoctor/intersynergy-login-plugin",
+  "name": "wpdoc/intersynergy-login-plugin",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "A WordPress plugin which allows you to have custom login flow",
